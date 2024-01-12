@@ -1,4 +1,4 @@
-Ce site va répertorier plusieurs marchandises et fera office de site de vente pour une petite boutique de T shirts.
+Ce site va répertorier plusieurs marchandises et fera office de site de vente pour une petite boutique de T-shirts.
 En tant que premier projet ce dépôt sera probablement imparfait que ce soit au niveau du code ou bien de la gestion de mon projet.
 Toute remarque ou conseil serait la bienvenue. 
 Dans un premier temps je ne me servirai que des langages HTML CSS et Javascript, pour tester mes bases je ferais un site en une page avec des fonctionnalités dynamiques afin de rendre le site plus esthétique. 
