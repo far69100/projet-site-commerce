@@ -31,11 +31,15 @@ img {
     display: flex;
 }
 
+img:first-child{
+    padding-right: 25%;
+}
+
 ul {
     display: flex;
     list-style-type: none;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: space-around;
     margin: 0;
 }
 
