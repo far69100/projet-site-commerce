@@ -21,6 +21,37 @@ footer {
     background-color: rgb(193, 193, 184);
 }
 
+@font-face {
+    font-family:beantown;
+    src: url(../assets/beantown.zip);
+    font-family: negaspace;
+    src: url(../assets/negativespace.zip);
+    font-family: octin-college;
+    src: url(../assets/octin-college-free.zip);
+    font-family:octin-sports;
+    src: url(../assets/octin-sports-free.zip);
+    font-family:playball;
+    src: url(../assets/playball.zip);
+    font-family: rosarivo;
+    src: url(../assets/rosarivo.zip);
+}
+
+.titre1 {
+
+}
+
+.titre2
+
+.titre3
+
+.titre4
+
+.titre5
+
+.titre6
+
+.titre7
+
 .titre {
     background-color: cornflowerblue;
     border:solid 1px black ;
