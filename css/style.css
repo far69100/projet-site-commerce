@@ -34,23 +34,45 @@ footer {
     src: url(../assets/playball.zip);
     font-family: rosarivo;
     src: url(../assets/rosarivo.zip);
+    font-family: streetwear;
+    src: url(../assets/streetwear.zip);
 }
 
 .titre1 {
+    font-family: beantown;
+    src: url(../assets/beantown.zip);
+}
+
+.titre2 {
+    font-family: negaspace;
+    src: url(../assets/negativespace.zip);
+}
+
+.titre3 {
+    font-family: octin-college;
+    src: url(../assets/octin-college-free.zip);
 
 }
 
-.titre2
+.titre4 { font-family:octin-sports;
+    src: url(../assets/octin-sports-free.zip);
 
-.titre3
+}
 
-.titre4
+.titre5 {
+    font-family:playball;
+    src: url(../assets/playball.zip);
+}
 
-.titre5
+.titre6 {
+    font-family: rosarivo;
+    src: url(../assets/rosarivo.zip);
+}
 
-.titre6
-
-.titre7
+.titre7 {
+    font-family: streetwear;
+    src: url(../assets/streetwear.zip);
+}
 
 .titre {
     background-color: cornflowerblue;
