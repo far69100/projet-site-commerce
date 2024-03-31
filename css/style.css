@@ -24,16 +24,30 @@ footer {
 @font-face {
     font-family:beantown;
     src: url(../assets/Beantown.ttf);
-    font-family: negaspace;
-    src: url(../assets/NegativeSpace.ttf);
-    font-family: octin-college;
-    src: url(../assets/octin-college.otf);
-    font-family:octin-sports;
-    src: url(../assets/octin-sports.otf);
-    font-family:playball;
-    src: url(../assets/Playball-Regular.ttf)
-
 }
+
+@font-face {
+    font-family:negaspace;
+    src: url(../assets/NegativeSpace.ttf);
+}
+
+@font-face {
+    font-family:beantown;
+    src: url(../assets/octin-college.otf);
+}
+@font-face {
+    font-family:beantown;
+    src: url(../assets/octin-sports.otf);
+}
+@font-face {
+    font-family:beantown;
+    src: url(../assets/Playball-Regular.ttf);
+}
+@font-face {
+    font-family:beantown;
+    src: url(../assets/Streetwear.otf);
+}
+
 
 .titre1 {
     font-family: beantown;
