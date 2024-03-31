@@ -32,19 +32,19 @@ footer {
 }
 
 @font-face {
-    font-family:beantown;
+    font-family:octin-college;
     src: url(../assets/octin-college.otf);
 }
 @font-face {
-    font-family:beantown;
+    font-family:octin-sports;
     src: url(../assets/octin-sports.otf);
 }
 @font-face {
-    font-family:beantown;
+    font-family:playball-regular;
     src: url(../assets/Playball-Regular.ttf);
 }
 @font-face {
-    font-family:beantown;
+    font-family:streetwear;
     src: url(../assets/Streetwear.otf);
 }
 
