@@ -37,22 +37,18 @@ footer {
 
 .titre1 {
     font-family: beantown;
-    src: url(../assets/Beantown.ttf);
 }
 
 .titre2 {
-    font-family:NegativeSpace;
-    src: url(../assets/NegativeSpace.ttf);
+    font-family:negaspace;
 }
 
 .titre3 {
     font-family: octin-college;
-    src: url(../assets/octin-college.otf);
 
 }
 
 .titre4 { font-family:octin-sports;
-    src: url(../assets/octin-college.otf);
 
 }
 
@@ -62,7 +58,6 @@ footer {
 
 .titre6 {
     font-family: streetwear;
-    src: url(../assets/Streetwear.otf);
 }
 
 .titre {
