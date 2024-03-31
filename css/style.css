@@ -40,38 +40,38 @@ footer {
 
 .titre1 {
     font-family: beantown;
-    src: url(../assets/beantown.zip);
+    src: url(../assets/Beantown.ttf);
 }
 
 .titre2 {
     font-family: negaspace;
-    src: url(../assets/negativespace.zip);
+    src: url(../assets/NegativeSpace.ttf);
 }
 
 .titre3 {
     font-family: octin-college;
-    src: url(../assets/octin-college-free.zip);
+    src: url(../assets/octin-college.otf);
 
 }
 
 .titre4 { font-family:octin-sports;
-    src: url(../assets/octin-sports-free.zip);
+    src: url(../assets/octin-college.otf);
 
 }
 
 .titre5 {
     font-family:playball;
-    src: url(../assets/playball.zip);
+    src: url(../assets/Playball-Regular.ttf);
 }
 
 .titre6 {
     font-family: rosarivo;
-    src: url(../assets/rosarivo.zip);
+    src: url(../assets/);
 }
 
 .titre7 {
     font-family: streetwear;
-    src: url(../assets/streetwear.zip);
+    src: url(../assets/Streetwear.otf);
 }
 
 .titre {
