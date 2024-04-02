@@ -10,7 +10,8 @@ nav footer .article {
 
 main {
     padding: 2rem;
-    background-color: rgb(85, 91, 91);
+    background-color: rgb(88 120 120);
+    border-top: solid black 2px;
 }
 
 @font-face {
@@ -90,6 +91,8 @@ ul {
 
 li {
     padding: 0 5em 0 5em;
+    border-left: 2px ;
+    border-right:2px ;
 }
 
 li:first-child {
