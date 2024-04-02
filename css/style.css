@@ -1,24 +1,16 @@
 body {
     padding : 0 ;
     margin : 0 ;
-    background-color: rgb(193, 193, 184);
+    background-color: rgb(11, 33, 33);
 }
 
-nav {
-    background-color: aqua;
+nav footer .article {
+    background-color: rgb(11, 33, 33);
 }
 
 main {
     padding: 2rem;
-    background-color: rgb(193, 193, 184);
-}
-
-footer {
-    background-color: chartreuse;
-}
-
-.article {
-    background-color: rgb(193, 193, 184);
+    background-color: rgb(11, 33, 33);
 }
 
 @font-face {
@@ -51,31 +43,36 @@ footer {
 
 .titre1 {
     font-family: beantown;
+    color: blanchedalmond;
 }
 
 .titre2 {
     font-family:negaspace;
+    color: blanchedalmond;
 }
 
 .titre3 {
     font-family: octin-college;
+    color: blanchedalmond;
 
 }
 
-.titre4 { font-family:octin-sports;
-
+.titre4 { 
+    font-family:octin-sports;
+    color: blanchedalmond;
 }
 
 .titre5 {
     font-family:playball-regular;
+    color: blanchedalmond;
 }
 
 .titre6 {
     font-family: streetwear;
+    color: blanchedalmond;
 }
 
-.titre {
-    background-color: cornflowerblue;
+.titre-article {
     border:solid 1px black ;
     padding: 3px;
     text-transform: uppercase;
@@ -92,6 +89,13 @@ ul {
     align-items: center;
     justify-content: space-evenly;
     margin: 0;
+    font-family: playball-regular;
+    text-transform: uppercase;
+    color: rgb(190, 176, 209);
+}
+
+li {
+    padding: 0 5em 0 5em;
 }
 
 li:first-child {
@@ -102,11 +106,16 @@ li:first-child {
     display: flex;
 }
 
+a {
+    color: rgb(190, 176, 209);
+    text-decoration: none;
+}
+
 .article {
     display: flex;
     flex-wrap: wrap;
     align-content: space-around;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
 
 }
